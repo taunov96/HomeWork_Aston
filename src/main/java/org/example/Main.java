@@ -3,21 +3,21 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        //printThreeWords();
-        //chekSumSign();
-        //printColor();
-        //compareNumbers();
-        //System.out.println(taskFive(19, 2));
-        //taskSix(7);
-        //System.out.println(taskSeven(7));
-        //taskEight("test\n", 5);
-        //System.out.println(taskNine(2024));
-        //invertArray();
-        //System.out.println(Arrays.toString(fillArray()));
-        //System.out.println(Arrays.toString(
-        //        twelveArray(new int[]{1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1})));;
-        //thirteenArr(6);
-        //printArrayInConsole(retLenArr(5, 7));
+        printThreeWords();
+        chekSumSign();
+        printColor();
+        compareNumbers();
+        System.out.println(taskFive(19, 2));
+        taskSix(7);
+        System.out.println(taskSeven(7));
+        taskEight("test\n", 5);
+        System.out.println(taskNine(2024));
+        invertArray();
+        System.out.println(Arrays.toString(fillArray()));
+        System.out.println(Arrays.toString(
+        twelveArray(new int[]{1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1})));;
+        thirteenArr(6);
+        printArrayInConsole(retLenArr(5, 7));
 
 
     }
