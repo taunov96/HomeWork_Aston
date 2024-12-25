@@ -19,7 +19,6 @@ public class Main {
         thirteenArr(6);
         printArrayInConsole(retLenArr(5, 7));
 
-
     }
 
     static void printThreeWords() {
